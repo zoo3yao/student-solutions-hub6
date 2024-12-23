@@ -152,3 +152,8 @@ footer {
 .footer-section .social img:hover {
   transform: scale(1.1); /* Slightly enlarge on hover */
 }
+.social img {
+  width: 24px; /* Adjust width */
+  height: 24px; /* Adjust height */
+  margin-right: 10px; /* Space between icons */
+}

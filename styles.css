@@ -153,7 +153,7 @@ footer {
   transform: scale(1.1); /* Slightly enlarge on hover */
 }
 .social img {
-  width: 24px; /* Adjust width */
-  height: 24px; /* Adjust height */
+  width: 32px; /* Adjust width */
+  height: 32px; /* Adjust height */
   margin-right: 10px; /* Space between icons */
 }
